@@ -7,17 +7,17 @@ var config = {
         "寿比南山",
         ],
     imgs: {
-        "欢迎来美国玩！！": "./imgs/map.png",
+        "送花！": "./imgs/map.gif",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开灯～",
         // play: "音乐",
-        bannar_coming: "生日快乐！！",
-        balloons_flying: "好像少点东西？",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "Gefeliciteerd met je verjaardag!",
-        story: "Wish You a Happy Birthday!",
+        bannar_coming: "Surprise惊喜！",
+        balloons_flying: "好像少点东西",
+        cake_fadein: "蛋糕！",
+        light_candle: "点蜡烛",
+        wish_message: "生日快乐！",
+        story: "靓仔Happy Birthday！",
     }
 };
